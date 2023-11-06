@@ -36,7 +36,7 @@ if(isset($_GET['delete_all'])){
    <title>Wishlist</title>
    <style>
          body {
-            background-image: url("images/orangeBG.avif");
+            background-image: url("images/home-back.png");
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
