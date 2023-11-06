@@ -1,2 +1,2 @@
-# Buy_Bounty_web_application
-Designed and developed a user-centric, dynamic online apparel shopping platform, delivering an exceptional user experience. Key accomplishments include implementing secure user authentication, streamlined shopping cart management, and robust order tracking capabilities, enhancing overall customer satisfaction and platform efficiency
+# apparel-website-on-xampp
+Apparel Website: A user-friendly and dynamic online platform for apparel shopping, offering a seamless browsing experience, secure user authentication, shopping cart management, and order tracking functionalities.
